@@ -28,7 +28,7 @@ Propulsion and aerodynamic trade studies were done using **MATLAB, XFLR5, and CA
 - **Airfoils/** → `.dat` files of tested airfoils  
 - **CAD/** → CAD design iterations (`.step` zipped)  
 - **DBF-DXF/** → DXF parts for laser cutting  
-- **GR Reports/** → Progress and final reports (`.pdf`, `.xlsx`)  
+- **GR Reports/** → Progress and final reports (`.pdf`, `.docx`)  
 - **Iterations-XFLR5/** → Aerodynamic iterations (`.xfl` + results)  
 - **MATLABCodes/** → UAV design and sizing code (details in report §4.3)  
 - **Stability/** → Stability calculation spreadsheets  
